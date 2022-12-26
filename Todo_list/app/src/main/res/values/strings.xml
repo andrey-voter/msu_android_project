@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="extended_fab_label">Done!</string>
+    <string name="add_task">Add task</string>
+</resources>
